@@ -1,5 +1,5 @@
-# Hi, I'm Lennox Galanje!👋  
-### ⭐ UI/UX Designer & Front-End Developer <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="35" height="30" alt="GIF Description">
+# Hi, I'm Lennox Galanje! <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">  
+### ⭐ UI/UX Designer & Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 ## 🚀 About Me  
 I'm a passionate **UI/UX Designer** and **Front-End Developer** with expertise in creating visually appealing and user-friendly designs. My goal is to bridge the gap between design and development by crafting seamless digital experiences.
