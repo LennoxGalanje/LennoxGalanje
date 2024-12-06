@@ -44,4 +44,4 @@ I'm a passionate **UI/UX Designer** and **Front-End Developer** with expertise i
 ---
 
 ### 📢 Fun Fact:  
-*"You can call me x-"the unknown variable" "* 
+*You can call me x-"the unknown variable"* 
